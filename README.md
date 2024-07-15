@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhay6999
-- 👀 I’m interested in ... promming/ web devlopment
-- 🌱 I’m currently learning ... jawascript
+- 👀 I’m interested in ... programming/ web devlopment
+- 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... some projects
 - 📫 How to reach me ... abhay52sharma@gmail.com
 - 😄 Pronouns: ...
